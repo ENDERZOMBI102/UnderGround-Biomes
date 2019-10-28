@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "undergroundbiomes:metamorphic_sand",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "undergroundbiomes:metamorphic_sandstone",
+    "data": 3
+  }
+}
