@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": 1,
+	"header": {
+		"description": "textures for underground biomes",
+		"name": "underground biomes res",
+		"uuid": "50122924-b1e7-4178-a44a-075794f5cf20",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			12,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "d5859da7-1ecd-4cc0-a52a-b76fe23cdad4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

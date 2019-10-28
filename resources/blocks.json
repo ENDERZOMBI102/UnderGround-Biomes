@@ -1,0 +1,16 @@
+//bridge-file-version: #7
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"underground_biomes:basalt": {
+		"sound": "stone",
+		"textures": "basalt"
+	},
+	"underground_biomes:basalt_cobble": {
+		"sound": "stone",
+		"textures": "basalt_cobble"
+	}
+}

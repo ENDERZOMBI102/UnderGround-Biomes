@@ -1,0 +1,5 @@
+##bridge-file-version: #3
+tile.underground_biomes:basalt.name=Basalt
+item.underground_biomes:basalt.name=Basalt
+tile.underground_biomes:basalt_cobble.name=Basalt Cobblestone
+item.underground_biomes:basalt_cobble.name=Basalt Cobblestone
