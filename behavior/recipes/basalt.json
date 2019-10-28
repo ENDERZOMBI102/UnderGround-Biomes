@@ -1,0 +1,15 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.10.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "underground_biomes:basalt_cobbleTOstone"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "underground_biomes:basalt_cobble",
+		"output": "underground_biomes:basalt"
+	}
+}

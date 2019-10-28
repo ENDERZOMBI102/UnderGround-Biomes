@@ -1,0 +1,343 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\manifest.json",
+	"file_type": "unknown",
+	"format_version": 1,
+	"file_uuid": "205015b2_c8c7_47d8_9c36_302489634375",
+	"file_version": 7,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "1",
+				"key": "format_version",
+				"type": "number",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "header",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "make the underground better!",
+						"key": "description",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "underground biomes",
+						"key": "name",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "5ea546fc-743a-44a9-8cef-bbe8a3fe4125",
+						"key": "uuid",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "version",
+						"type": "array",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "1",
+								"key": "0",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "0",
+								"key": "1",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "0",
+								"key": "2",
+								"type": "number",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "min_engine_version",
+						"type": "array",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "1",
+								"key": "0",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "0",
+								"key": "1",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "1",
+								"key": "2",
+								"type": "number",
+								"meta": {},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "",
+				"key": "modules",
+				"type": "array",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "0",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "data",
+								"key": "type",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "4c91010d-d49f-4a2e-8464-2145ce5354ad",
+								"key": "uuid",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "",
+								"key": "version",
+								"type": "array",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "1",
+										"key": "0",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "1",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "2",
+										"type": "number",
+										"meta": {},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "1",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "client_data",
+								"key": "type",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "7037a865-29ca-4390-ba94-5f5b66a64a4d",
+								"key": "uuid",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "",
+								"key": "version",
+								"type": "array",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "1",
+										"key": "0",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "1",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "2",
+										"type": "number",
+										"meta": {},
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "",
+				"key": "dependencies",
+				"type": "array",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "0",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "",
+								"key": "version",
+								"type": "array",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "1",
+										"key": "0",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "1",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "2",
+										"type": "number",
+										"meta": {},
+										"children": []
+									}
+								]
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "50122924-b1e7-4178-a44a-075794f5cf20",
+								"key": "uuid",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

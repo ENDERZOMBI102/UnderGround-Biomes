@@ -1,0 +1,212 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\underground biomes res\\manifest.json",
+	"file_type": "unknown",
+	"format_version": 1,
+	"file_uuid": "af325788_0f41_4741_bc3a_a5c7b0d5b2b2",
+	"file_version": 1,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "1",
+				"key": "format_version",
+				"type": "number",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "header",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "textures for underground biomes",
+						"key": "description",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "underground biomes res",
+						"key": "name",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "50122924-b1e7-4178-a44a-075794f5cf20",
+						"key": "uuid",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "version",
+						"type": "array",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "1",
+								"key": "0",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "0",
+								"key": "1",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "0",
+								"key": "2",
+								"type": "number",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "min_engine_version",
+						"type": "array",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "1",
+								"key": "0",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "12",
+								"key": "1",
+								"type": "number",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "1",
+								"key": "2",
+								"type": "number",
+								"meta": {},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "",
+				"key": "modules",
+				"type": "array",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "",
+						"key": "0",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "resources",
+								"key": "type",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "d5859da7-1ecd-4cc0-a52a-b76fe23cdad4",
+								"key": "uuid",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "",
+								"key": "version",
+								"type": "array",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "1",
+										"key": "0",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "1",
+										"type": "number",
+										"meta": {},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "0",
+										"key": "2",
+										"type": "number",
+										"meta": {},
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

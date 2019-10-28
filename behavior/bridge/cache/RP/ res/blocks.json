@@ -1,0 +1,114 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\underground biomes res\\blocks.json",
+	"file_type": "client_block",
+	"format_version": 1,
+	"file_uuid": "03dfe2aa_4632_4fe9_9330_c3e585c19b4e",
+	"file_version": 7,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "format_version",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "1",
+						"key": "0",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "1",
+						"key": "1",
+						"type": "string",
+						"meta": {},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "0",
+						"key": "2",
+						"type": "string",
+						"meta": {},
+						"children": []
+					}
+				]
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "underground_biomes:basalt",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "stone",
+						"key": "sound",
+						"type": "string",
+						"meta": {
+							"is_value": true
+						},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "basalt",
+						"key": "textures",
+						"type": "string",
+						"meta": {},
+						"children": []
+					}
+				]
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "underground_biomes:basalt_cobble",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": false,
+						"comment": "",
+						"data": "stone",
+						"key": "sound",
+						"type": "string",
+						"meta": {
+							"is_value": true
+						},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "basalt_cobble",
+						"key": "textures",
+						"type": "string",
+						"meta": {},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+}

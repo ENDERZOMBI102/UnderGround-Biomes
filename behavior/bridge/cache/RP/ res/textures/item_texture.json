@@ -1,0 +1,44 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\underground biomes res\\textures\\item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "dc6c2606_312d_42b2_b7c3_a10b520ae6c9",
+	"file_version": 2,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "Underground_Biomes",
+				"key": "resource_pack_name",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "atlas.items",
+				"key": "texture_name",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "texture_data",
+				"type": "object",
+				"meta": {},
+				"children": []
+			}
+		]
+	}
+}

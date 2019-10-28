@@ -1,0 +1,19 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.12.1",
+	"minecraft:block": {
+		"description": {
+			"identifier": "underground_biomes:basalt",
+			"register_to_creative_menu": true,
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:destroy_time": 9,
+			"minecraft:explosion_resistance": 14,
+			"minecraft:map_color": "#737373",
+			"minecraft:loot": {
+				"table": "loot_tables/blocks/basalt.json"
+			}
+		}
+	}
+}

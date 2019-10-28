@@ -1,0 +1,113 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\recipes\\basalt_cobbleTOstone.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "e16ed4aa_cb13_4880_bee2_2a10205b83ea",
+	"file_version": 1,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": false,
+				"comment": "",
+				"data": "1.10.0",
+				"key": "format_version",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "minecraft:recipe_furnace",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "description",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "underground_biomes:basalt_cobbleTOstone",
+								"key": "identifier",
+								"type": "string",
+								"meta": {
+									"is_value": true
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "tags",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "furnace",
+								"key": "0",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "blast_furnace",
+								"key": "1",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "underground_biomes:basalt_cobble",
+						"key": "input",
+						"type": "string",
+						"meta": {
+							"definitions": [
+								"block",
+								"item"
+							]
+						},
+						"children": []
+					},
+					{
+						"open": false,
+						"comment": "",
+						"data": "underground_biomes:basalt",
+						"key": "output",
+						"type": "string",
+						"meta": {
+							"definitions": [
+								"block",
+								"item"
+							]
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+}

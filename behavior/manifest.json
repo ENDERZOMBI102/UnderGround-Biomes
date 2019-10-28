@@ -1,0 +1,49 @@
+//bridge-file-version: #7
+{
+	"format_version": 1,
+	"header": {
+		"description": "make the underground better!",
+		"name": "underground biomes",
+		"uuid": "5ea546fc-743a-44a9-8cef-bbe8a3fe4125",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4c91010d-d49f-4a2e-8464-2145ce5354ad",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "client_data",
+			"uuid": "7037a865-29ca-4390-ba94-5f5b66a64a4d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "50122924-b1e7-4178-a44a-075794f5cf20"
+		}
+	]
+}
