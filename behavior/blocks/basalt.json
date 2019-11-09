@@ -1,6 +1,6 @@
 //bridge-file-version: #14
 {
-	"format_version": "1.12.1",
+	"format_version": "1.13.0",
 	"minecraft:block": {
 		"description": {
 			"identifier": "underground_biomes:basalt",
