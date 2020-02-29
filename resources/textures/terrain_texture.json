@@ -1,4 +1,4 @@
-//bridge-file-version: #6
+//bridge-file-version: #9
 {
 	"resource_pack_name": "Underground_Biomes",
 	"texture_name": "atlas.terrain",
@@ -9,7 +9,13 @@
 			"textures": "textures/blocks/basalt/basalt"
 		},
 		"basalt_cobble": {
-			"textures": "textures/blocks/basalt/basalt_cobblestone"
+			"textures": "textures/blocks/basalt/basalt_cobble"
+		},
+		"basalt_bricks": {
+			"textures": "textures/blocks/basalt/basalt_brick"
+		},
+		"basalt_gravel": {
+			"textures": "textures/blocks/basalt/basalt_gravel"
 		}
 	}
 }

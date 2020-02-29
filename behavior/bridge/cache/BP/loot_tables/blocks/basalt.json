@@ -3,7 +3,7 @@
 	"file_type": "loot_table",
 	"format_version": 1,
 	"file_uuid": "5f1b2e0b_8cd1_4bb5_b3df_e98916231b31",
-	"file_version": 2,
+	"file_version": 3,
 	"cache_content": {
 		"open": true,
 		"comment": "",
@@ -65,7 +65,7 @@
 											{
 												"open": true,
 												"comment": "",
-												"data": "underground_biomes:basalt_cobble",
+												"data": "undergroundBiomes:basalt_cobble",
 												"key": "name",
 												"type": "string",
 												"meta": {

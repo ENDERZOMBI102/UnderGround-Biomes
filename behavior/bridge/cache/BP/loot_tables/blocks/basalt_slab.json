@@ -1,0 +1,144 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\loot_tables\\blocks\\basalt_slab.json",
+	"file_type": "loot_table",
+	"format_version": 1,
+	"file_uuid": "b94f0903_b81c_44ca_ba32_77f688d7f627",
+	"file_version": 1,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "pools",
+				"type": "array",
+				"meta": {},
+				"children": [
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "0",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "1",
+								"key": "rolls",
+								"type": "string",
+								"meta": {},
+								"children": []
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "entries",
+								"type": "array",
+								"meta": {},
+								"children": [
+									{
+										"open": true,
+										"comment": "",
+										"data": "",
+										"key": "0",
+										"type": "object",
+										"meta": {},
+										"children": [
+											{
+												"open": false,
+												"comment": "",
+												"data": "item",
+												"key": "type",
+												"type": "string",
+												"meta": {},
+												"children": []
+											},
+											{
+												"open": false,
+												"comment": "",
+												"data": "undergroundBiomes:basalt_slab",
+												"key": "name",
+												"type": "string",
+												"meta": {
+													"definitions": [
+														"item"
+													]
+												},
+												"children": []
+											},
+											{
+												"open": false,
+												"comment": "",
+												"data": "1",
+												"key": "weight",
+												"type": "string",
+												"meta": {},
+												"children": []
+											},
+											{
+												"open": true,
+												"comment": "",
+												"data": "",
+												"key": "functions",
+												"type": "object",
+												"meta": {},
+												"children": [
+													{
+														"open": false,
+														"comment": "",
+														"data": "set_count",
+														"key": "function",
+														"type": "string",
+														"meta": {},
+														"children": []
+													},
+													{
+														"open": true,
+														"comment": "",
+														"data": "",
+														"key": "count",
+														"type": "object",
+														"meta": {},
+														"children": [
+															{
+																"open": true,
+																"comment": "",
+																"data": "0",
+																"key": "min",
+																"type": "string",
+																"meta": {},
+																"children": []
+															},
+															{
+																"open": false,
+																"comment": "",
+																"data": "1",
+																"key": "max",
+																"type": "string",
+																"meta": {},
+																"children": []
+															}
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,185 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes/recipes/basalt_bricks.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "086786fc_d895_439e_a6f4_db98457452de",
+	"file_version": 0,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": false,
+				"comment": "",
+				"data": "1.10.0",
+				"key": "format_version",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "minecraft:recipe_shaped",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "description",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "undergroundBiomes:basalt_bricks",
+								"key": "identifier",
+								"type": "string",
+								"meta": {
+									"is_value": true
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "tags",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "crafting_table",
+								"key": "0",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "pattern",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": false,
+								"comment": "",
+								"data": "##",
+								"key": "0",
+								"type": "string",
+								"meta": {
+									"is_value": true
+								},
+								"children": []
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "##",
+								"key": "1",
+								"type": "string",
+								"meta": {
+									"is_value": true
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "key",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "#",
+								"type": "object",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "undergroundBiomes:basalt",
+										"key": "item",
+										"type": "string",
+										"meta": {
+											"definitions": [
+												"block",
+												"item"
+											]
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "result",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "0",
+								"type": "object",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "undergroundBiomes:basalt_bricks",
+										"key": "item",
+										"type": "string",
+										"meta": {
+											"definitions": [
+												"block",
+												"item"
+											]
+										},
+										"children": []
+									},
+									{
+										"open": false,
+										"comment": "",
+										"data": "4",
+										"key": "count",
+										"type": "string",
+										"meta": {},
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

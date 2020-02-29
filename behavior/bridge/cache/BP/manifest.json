@@ -3,7 +3,7 @@
 	"file_type": "unknown",
 	"format_version": 1,
 	"file_uuid": "205015b2_c8c7_47d8_9c36_302489634375",
-	"file_version": 7,
+	"file_version": 8,
 	"cache_content": {
 		"open": true,
 		"comment": "",
@@ -273,7 +273,7 @@
 				]
 			},
 			{
-				"open": false,
+				"open": true,
 				"comment": "",
 				"data": "",
 				"key": "dependencies",
@@ -281,7 +281,7 @@
 				"meta": {},
 				"children": [
 					{
-						"open": false,
+						"open": true,
 						"comment": "",
 						"data": "",
 						"key": "0",
@@ -326,7 +326,7 @@
 								]
 							},
 							{
-								"open": false,
+								"open": true,
 								"comment": "",
 								"data": "50122924-b1e7-4178-a44a-075794f5cf20",
 								"key": "uuid",

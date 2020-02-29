@@ -1,5 +1,11 @@
+##bridge-file-version: #7
 ##bridge-file-version: #2
-tile.underground_biomes:basalt.name=Basalto
-item.underground_biomes:basalt.name=Basalto
-tile.underground_biomes:basalt_cobble.name=Pietrisco di Basalto
-item.underground_biomes:basalt_cobble.name=Pietrisco di Basalto
+##basalt
+tile.undergroundBiomes:basalt.name=Basalto
+item.undergroundBiomes:basalt.name=Basalto
+tile.undergroundBiomes:basalt_cobble.name=Pietrisco di Basalto
+item.undergroundBiomes:basalt_cobble.name=Pietrisco di Basalto
+tile.undergroundBiomes:basalt_bricks.name=Mattoni di Basalto
+item.undergroundBiomes:basalt_bricks.name=Mattoni di Basalto
+tile.undergroundBiomes:basalt_gravel.name=Ghiaia di Basalto
+item.undergroundBiomes:basalt_gravel.name=Ghiaia di Basalto

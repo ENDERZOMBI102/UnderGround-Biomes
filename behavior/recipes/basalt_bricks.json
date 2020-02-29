@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.10.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "undergroundBiomes:basalt_bricks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"##",
+			"##"
+		],
+		"key": {
+			"#": {
+				"item": "undergroundBiomes:basalt"
+			}
+		},
+		"result": [
+			{
+				"item": "undergroundBiomes:basalt_bricks",
+				"count": 4
+			}
+		]
+	}
+}

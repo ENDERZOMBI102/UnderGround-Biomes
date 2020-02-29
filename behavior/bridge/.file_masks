@@ -1,0 +1,59 @@
+{
+	"RP/ res/blocks.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {}
+	},
+	"BP/blocks/basalt.json": {
+		"data": {}
+	},
+	"RP/ res/textures/item_texture.json": {
+		"data": {}
+	},
+	"RP/ res/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/loot_tables/blocks/basalt.json": {
+		"data": {}
+	},
+	"BP/blocks/basalt_cobble.json": {
+		"data": {}
+	},
+	"BP/loot_tables/basalt_cobble.json": {
+		"data": {}
+	},
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"BP/recipes/basalt.json": {
+		"data": {}
+	},
+	"RP/ res/manifest.json": {
+		"data": {}
+	},
+	"BP/loot_tables/blocks/basalt_bricks.json": {
+		"data": {}
+	},
+	"BP/blocks/basalt_bricks.json": {
+		"data": {}
+	},
+	"BP/feature_rules/basaltGen.json": {
+		"data": {}
+	},
+	"BP/features/basalt.json": {
+		"data": {}
+	},
+	"BP/loot_tables/blocks/basalt_slab.json": {
+		"data": {}
+	},
+	"BP/blocks/basalt_gravel.json": {
+		"data": {}
+	},
+	"BP/recipes/basalt_bricks.json": {
+		"data": {}
+	}
+}

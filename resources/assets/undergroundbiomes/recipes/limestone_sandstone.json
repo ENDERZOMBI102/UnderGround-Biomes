@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "undergroundbiomes:sedimentary_sand",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "undergroundbiomes:sedimentary_sandstone",
+    "data": 0
+  }
+}

@@ -2,8 +2,8 @@
 	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\features\\basalt.json",
 	"file_type": "feature",
 	"format_version": 1,
-	"file_uuid": "f3579627_6a29_47c2_b677_984875c0d059",
-	"file_version": 1,
+	"file_uuid": "d3b74529_5d0c_4326_9938_225cebe81414",
+	"file_version": 5,
 	"cache_content": {
 		"open": true,
 		"comment": "",
@@ -30,7 +30,7 @@
 				"meta": {},
 				"children": [
 					{
-						"open": false,
+						"open": true,
 						"comment": "",
 						"data": "",
 						"key": "description",
@@ -40,7 +40,7 @@
 							{
 								"open": true,
 								"comment": "",
-								"data": "basalt_feature",
+								"data": "basalt",
 								"key": "identifier",
 								"type": "string",
 								"meta": {},
@@ -51,7 +51,7 @@
 					{
 						"open": false,
 						"comment": "",
-						"data": "33",
+						"data": "957",
 						"key": "count",
 						"type": "number",
 						"meta": {},
@@ -60,28 +60,14 @@
 					{
 						"open": false,
 						"comment": "",
-						"data": "",
+						"data": "undergroundBiomes:basalt",
 						"key": "places_block",
-						"type": "object",
-						"meta": {
-							"definitions": [
-								"block"
-							]
-						},
-						"children": [
-							{
-								"open": true,
-								"comment": "",
-								"data": "underground_biomes:basalt",
-								"key": "name",
-								"type": "string",
-								"meta": {},
-								"children": []
-							}
-						]
+						"type": "string",
+						"meta": {},
+						"children": []
 					},
 					{
-						"open": false,
+						"open": true,
 						"comment": "",
 						"data": "",
 						"key": "may_replace",
@@ -89,16 +75,12 @@
 						"meta": {},
 						"children": [
 							{
-								"open": true,
+								"open": false,
 								"comment": "",
 								"data": "",
 								"key": "0",
 								"type": "object",
-								"meta": {
-									"definitions": [
-										"block"
-									]
-								},
+								"meta": {},
 								"children": [
 									{
 										"open": false,
@@ -118,7 +100,7 @@
 										"meta": {},
 										"children": [
 											{
-												"open": false,
+												"open": true,
 												"comment": "",
 												"data": "andesite",
 												"key": "stone_type",
@@ -131,7 +113,7 @@
 								]
 							},
 							{
-								"open": true,
+								"open": false,
 								"comment": "",
 								"data": "",
 								"key": "1",
@@ -169,7 +151,7 @@
 								]
 							},
 							{
-								"open": true,
+								"open": false,
 								"comment": "",
 								"data": "",
 								"key": "2",
@@ -207,7 +189,7 @@
 								]
 							},
 							{
-								"open": true,
+								"open": false,
 								"comment": "",
 								"data": "",
 								"key": "3",
@@ -241,6 +223,33 @@
 												"children": []
 											}
 										]
+									}
+								]
+							},
+							{
+								"open": false,
+								"comment": "",
+								"data": "",
+								"key": "4",
+								"type": "object",
+								"meta": {
+									"definitions": [
+										"block"
+									]
+								},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "minecraft:dirt",
+										"key": "name",
+										"type": "string",
+										"meta": {
+											"definitions": [
+												"block"
+											]
+										},
+										"children": []
 									}
 								]
 							}

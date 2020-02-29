@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #4
 {
 	"format_version": 1,
 	"header": {
@@ -19,7 +19,7 @@
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "d5859da7-1ecd-4cc0-a52a-b76fe23cdad4",
+			"uuid": "50122924-b1e7-4178-a44a-075794f5cf20",
 			"version": [
 				1,
 				0,

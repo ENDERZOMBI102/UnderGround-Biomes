@@ -1,9 +1,9 @@
 {
-	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\recipes\\basalt_cobbleTOstone.json",
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\underground biomes\\recipes\\basalt.json",
 	"file_type": "recipe",
 	"format_version": 1,
 	"file_uuid": "e16ed4aa_cb13_4880_bee2_2a10205b83ea",
-	"file_version": 1,
+	"file_version": 7,
 	"cache_content": {
 		"open": true,
 		"comment": "",
@@ -38,9 +38,9 @@
 						"meta": {},
 						"children": [
 							{
-								"open": false,
+								"open": true,
 								"comment": "",
-								"data": "underground_biomes:basalt_cobbleTOstone",
+								"data": "undergroundBiomes:basalt_cobbleToStone",
 								"key": "identifier",
 								"type": "string",
 								"meta": {
@@ -79,9 +79,9 @@
 						]
 					},
 					{
-						"open": false,
+						"open": true,
 						"comment": "",
-						"data": "underground_biomes:basalt_cobble",
+						"data": "undergroundBiomes:basalt_cobble",
 						"key": "input",
 						"type": "string",
 						"meta": {
@@ -93,9 +93,9 @@
 						"children": []
 					},
 					{
-						"open": false,
+						"open": true,
 						"comment": "",
-						"data": "underground_biomes:basalt",
+						"data": "undergroundBiomes:basalt",
 						"key": "output",
 						"type": "string",
 						"meta": {

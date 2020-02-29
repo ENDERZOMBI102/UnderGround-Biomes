@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#^"
+  ],
+  "key": {
+    "#": {
+      "item": "undergroundbiomes:sedimentary_stone",
+      "data": 1
+    },
+    "^": {
+      "item": "minecraft:vine",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "undergroundbiomes:sedimentary_stone_mossy",
+    "data": 1
+  }
+}

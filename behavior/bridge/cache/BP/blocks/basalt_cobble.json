@@ -3,7 +3,7 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "edd216c2_ca3f_421a_ae61_3058e15396be",
-	"file_version": 19,
+	"file_version": 22,
 	"cache_content": {
 		"open": true,
 		"comment": "",
@@ -40,7 +40,7 @@
 							{
 								"open": true,
 								"comment": "",
-								"data": "underground_biomes:basalt_cobble",
+								"data": "undergroundBiomes:basalt_cobble",
 								"key": "identifier",
 								"type": "string",
 								"meta": {},
@@ -75,33 +75,6 @@
 						"meta": {},
 						"children": [
 							{
-								"open": false,
-								"comment": "",
-								"data": "9",
-								"key": "minecraft:destroy_time",
-								"type": "number",
-								"meta": {},
-								"children": []
-							},
-							{
-								"open": false,
-								"comment": "",
-								"data": "14",
-								"key": "minecraft:explosion_resistance",
-								"type": "number",
-								"meta": {},
-								"children": []
-							},
-							{
-								"open": false,
-								"comment": "",
-								"data": "#737373",
-								"key": "minecraft:map_color",
-								"type": "string",
-								"meta": {},
-								"children": []
-							},
-							{
 								"open": true,
 								"comment": "",
 								"data": "",
@@ -112,8 +85,67 @@
 									{
 										"open": true,
 										"comment": "",
-										"data": "loot_tables/basalt_cobble.json",
+										"data": "loot_tables/basalt.json",
 										"key": "table",
+										"type": "string",
+										"meta": {},
+										"children": []
+									}
+								]
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "minecraft:destroy_time",
+								"type": "object",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "0.9",
+										"key": "value",
+										"type": "string",
+										"meta": {},
+										"children": []
+									}
+								]
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "minecraft:map_color",
+								"type": "object",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "#737373",
+										"key": "color",
+										"type": "string",
+										"meta": {
+											"is_value": true
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"open": true,
+								"comment": "",
+								"data": "",
+								"key": "minecraft:explosion_resistance",
+								"type": "object",
+								"meta": {},
+								"children": [
+									{
+										"open": false,
+										"comment": "",
+										"data": "0.7",
+										"key": "value",
 										"type": "string",
 										"meta": {},
 										"children": []

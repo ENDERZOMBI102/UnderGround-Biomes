@@ -1,0 +1,101 @@
+{
+	"file_path": "C:\\Users\\Flavia\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\underground biomes res\\textures\\terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "81c3af76_b17d_40e2_8982_411317d05fc7",
+	"file_version": 6,
+	"cache_content": {
+		"open": true,
+		"comment": "",
+		"data": "",
+		"key": "global",
+		"type": "object",
+		"meta": {},
+		"children": [
+			{
+				"open": true,
+				"comment": "",
+				"data": "Underground_Biomes",
+				"key": "resource_pack_name",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "atlas.terrain",
+				"key": "texture_name",
+				"type": "string",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "8",
+				"key": "padding",
+				"type": "number",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": false,
+				"comment": "",
+				"data": "4",
+				"key": "num_mip_levels",
+				"type": "number",
+				"meta": {},
+				"children": []
+			},
+			{
+				"open": true,
+				"comment": "",
+				"data": "",
+				"key": "texture_data",
+				"type": "object",
+				"meta": {},
+				"children": [
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "basalt",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "textures/blocks/basalt/basalt",
+								"key": "textures",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					},
+					{
+						"open": true,
+						"comment": "",
+						"data": "",
+						"key": "basalt_cobble",
+						"type": "object",
+						"meta": {},
+						"children": [
+							{
+								"open": true,
+								"comment": "",
+								"data": "textures/blocks/basalt/basalt_cobblestone",
+								"key": "textures",
+								"type": "string",
+								"meta": {},
+								"children": []
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

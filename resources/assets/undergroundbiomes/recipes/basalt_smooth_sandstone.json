@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "undergroundbiomes:igneous_sandstone",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "undergroundbiomes:igneous_sandstone_smooth",
+    "data": 5,
+    "count": 4
+  }
+}
